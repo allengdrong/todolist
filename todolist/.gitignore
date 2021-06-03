@@ -14,6 +14,10 @@ local.properties
 .loadpath
 .recommenders
 .target/
+pom.properties
+.properties
+MANIFEST.MF
+.MF
 
 
 # ignore properties file
